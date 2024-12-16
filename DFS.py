@@ -1,6 +1,4 @@
 # Name = Muhammad Ali Ahson
-# Roll = 21i-2535
-# Assignment 2
 
 
 import random
